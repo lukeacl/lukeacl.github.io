@@ -137,11 +137,13 @@ h1 {
   margin-bottom: 2rem;
   font-size: 0.9rem;
   line-height: 1.1rem;
+  flex-direction: "row";
 }
 
 #links li {
   display: inline;
   margin-right: 0.75rem;
+  white-space: nowrap;
 }
 
 #links li:last-of-type {
@@ -158,6 +160,10 @@ h1 {
 
 #links li a:hover {
   color: #3498db;
+}
+
+#links li a i {
+  margin-right: 2px;
 }
 
 .strobe {
