@@ -10,7 +10,7 @@
 	],
 	"redirect_uris": [
 		"https://lukeacl.com/oauth/callback",
-		"com.lukeacl://oauth-callback"
+		"com.lukeacl:/oauth-callback"
 	],
 	"response_types": [
 		"code"
