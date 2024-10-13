@@ -9,7 +9,7 @@
 		"refresh_token"
 	],
 	"redirect_uris": [
-		"http://localhost:3000/oauth/callback",
+		"http://127.0.0.1:3000/oauth/callback",
 		"http://lukeacl.com/oauth/callback"
 	],
 	"response_types": [
