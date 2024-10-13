@@ -2,14 +2,15 @@
 	"client_id": "https://lukeacl.com/oauth/localhost-metadata.json",
 	"application_type": "web",
 	"client_name": "Local App",
-	"client_uri": "http://localhost:3000",
+	"client_uri": "http://lukeacl.com",
 	"dpop_bound_access_tokens": true,
 	"grant_types": [
 		"authorization_code",
 		"refresh_token"
 	],
 	"redirect_uris": [
-		"http://localhost:3000/oauth/callback"
+		"http://localhost:3000/oauth/callback",
+		"http://lukeacl.com/oauth/callback"
 	],
 	"response_types": [
 		"code"
