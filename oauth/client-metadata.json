@@ -1,5 +1,5 @@
 {
-	"client_id": "https://lukeacl.com/oauth/localhost-metadata.json",
+	"client_id": "https://lukeacl.com/oauth/client-metadata.json",
 	"application_type": "web",
 	"client_name": "lukeacl.com",
 	"client_uri": "https://lukeacl.com",
