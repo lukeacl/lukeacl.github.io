@@ -1,8 +1,8 @@
 {
 	"client_id": "https://lukeacl.com/oauth/localhost-metadata.json",
 	"application_type": "web",
-	"client_name": "Local App",
-	"client_uri": "http://lukeacl.com",
+	"client_name": "lukeacl.com",
+	"client_uri": "https://lukeacl.com",
 	"dpop_bound_access_tokens": true,
 	"grant_types": [
 		"authorization_code",
