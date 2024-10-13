@@ -9,7 +9,8 @@
 		"refresh_token"
 	],
 	"redirect_uris": [
-		"https://lukeacl.com/oauth/callback"
+		"https://lukeacl.com/oauth/callback",
+		"clacks://oauth-callback"
 	],
 	"response_types": [
 		"code"
