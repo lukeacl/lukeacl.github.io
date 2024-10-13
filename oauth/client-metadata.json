@@ -1,6 +1,6 @@
 {
 	"client_id": "https://lukeacl.com/oauth/client-metadata.json",
-	"application_type": "web",
+	"application_type": "native",
 	"client_name": "lukeacl.com",
 	"client_uri": "https://lukeacl.com",
 	"dpop_bound_access_tokens": true,
@@ -10,7 +10,7 @@
 	],
 	"redirect_uris": [
 		"https://lukeacl.com/oauth/callback",
-		"clacks://oauth-callback"
+		"com.lukeacl://oauth-callback"
 	],
 	"response_types": [
 		"code"
